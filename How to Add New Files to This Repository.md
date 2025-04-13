@@ -17,6 +17,19 @@ GitHub Desktopに戻る
 GitHubにアップロード
 右上の「Push origin」をクリックしてGitHubにアップロード
 
+例）コマンド
+
+cd /path/to/docker-practice
+
+mkdir -p Docker/1_Basics
+mkdir -p Docker/2_Dockerfile
+mkdir -p Docker/3_DockerCompose
+
+touch Docker/1_Basics/basics.md
+touch Docker/2_Dockerfile/dockerfile.md
+touch Docker/3_DockerCompose/docker_compose.md
+→それぞれの .md ファイルに学習内容を Markdown で記述
+
 ✅ GitHubのWebページから追加する場合
 リポジトリを開く
 ブラウザで以下のURLを開く
